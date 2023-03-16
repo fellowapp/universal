@@ -1,0 +1,15 @@
+.idea
+node_modules
+*.app
+src
+.idea
+tsconfig.*
+package-lock.json
+yarn.lock
+.gitignore
+.npmignore
+.prettierrc.json
+.releaserc.json
+.husky
+.github
+.circleci

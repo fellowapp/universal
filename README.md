@@ -1,3 +1,7 @@
+# Forked from [@electron/universal](https://github.com/fellowapp/universal.git)
+
+Electron universal but with this PR merged https://github.com/electron/universal/pull/66
+
 # @electron/universal
 
 > Create universal macOS Electron applications
@@ -16,6 +20,8 @@ await makeUniversalApp({
   outAppPath: 'path/to/App_universal.app',
 });
 ```
+
+Note: There are more useful arguments in the type definitions file
 
 ## FAQ
 
